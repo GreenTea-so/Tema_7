@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb": "^18.2.1"
+  },
+  "scripts": {
+    "start": "cd node_modules/.bin && eslint ../../src/script.js"
+  }
+  
+}
